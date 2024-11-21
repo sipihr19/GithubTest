@@ -1,4 +1,3 @@
 #GithubTest
-Bu repoyu test ama.lı oluşturuyorum
-
+Bu repoyu test amaçlı oluşturuyorum
 Çok güzel bir repo oldu
